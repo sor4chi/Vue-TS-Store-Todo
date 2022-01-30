@@ -1,6 +1,6 @@
 # Vue-TS-Store-Todo
 
-DeployedURL https://vercel.com/sor4chi/vue-ts-store-todo/7tcKo78a9LqWwCAhBfBfMHhPBAHA
+DeployedURL https://vue-ts-store-todo.vercel.app/
 
 ## Project setup
 ```
