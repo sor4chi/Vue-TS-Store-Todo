@@ -1,4 +1,6 @@
-# sample
+# Vue-TS-Store-Todo
+
+DeployedURL https://sor4chi.github.io/Vue-TS-Store-Todo/
 
 ## Project setup
 ```
