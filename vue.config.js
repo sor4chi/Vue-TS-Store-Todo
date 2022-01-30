@@ -1,6 +1,5 @@
 module.exports = {
-  publicPath:
-    process.env.NODE_ENV === "production" ? "/Vue-TS-Store-Todo/" : "/",
+  publicPath: "/",
   pluginOptions: {
     "style-resources-loader": {
       preProcessor: "scss",
