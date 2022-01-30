@@ -3,9 +3,9 @@
     <h1>Commentary</h1>
     <h2>構成</h2>
     <div class="compose_list">
-      <a href="https://cli.vuejs.org/">VueCLI</a>
+      <a href="https://cli.vuejs.org/">Vue3(CompositionAPI)</a>
       <a href="https://jp.vuejs.org/v2/guide/typescript.html">Typescript</a>
-      <a href="https://vuex.vuejs.org/ja/">VueX</a>
+      <a href="https://vuex.vuejs.org/ja/">VueX4</a>
       <a
         href="https://vue-loader-v14.vuejs.org/ja/configurations/pre-processors.html"
         >scss</a
