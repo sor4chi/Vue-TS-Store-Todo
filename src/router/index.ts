@@ -4,7 +4,7 @@ const routes: Array<RouteRecordRaw> = [
   {
     path: "/",
     name: "Todo",
-    component: import("../views/Todo.vue"),
+    component: () => import("../views/Todo.vue"),
   },
   {
     path: "/persisted",
