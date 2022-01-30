@@ -5,13 +5,18 @@
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
-    "lint": "vue-cli-service lint"
+    "lint": "vue-cli-service lint",
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "core-js": "^3.6.5",
+    "gh-pages": "^3.2.3",
+    "sass": "^1.49.0",
+    "sass-loader": "10",
     "vue": "^3.0.0",
     "vue-router": "^4.0.0-0",
-    "vuex": "^4.0.0-0"
+    "vuex": "^4.0.0-0",
+    "vuex-persistedstate": "^4.1.0"
   },
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^4.18.0",
@@ -30,7 +35,9 @@
     "eslint-plugin-vue": "^7.0.0",
     "lint-staged": "^9.5.0",
     "prettier": "^2.2.1",
-    "typescript": "~4.1.5"
+    "style-resources-loader": "^1.4.1",
+    "typescript": "~4.1.5",
+    "vue-cli-plugin-style-resources-loader": "~0.1.5"
   },
   "eslintConfig": {
     "root": true,
